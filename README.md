@@ -11,21 +11,22 @@ Este proyecto tiene como objetivo realizar un análisis completo de la producci�
 
 ## 📁 Estructura del repositorio
 
-produccion-petroleo-gas-argentina/
-├── data/ # Archivos CSV crudos y procesados
-├── docs/ # Documentación adicional del proyecto
-├── notebooks/
-│ ├── eda/ # Análisis exploratorio (EDA)
-│ │ └── exploracion.ipynb
-│ └── etl/ # Pipeline ETL
-│ └── etl_pipeline.ipynb
-├── scripts/ # Scripts Python auxiliares
-├── sql/ # Scripts SQL para BigQuery
-└── README.md # Descripción del proyecto
+## 📁 Estructura del repositorio
 
-markdown
-Copiar
-Editar
+```
+produccion-petroleo-gas-argentina/
+├── data/               # Archivos CSV crudos y procesados
+├── docs/               # Documentación adicional del proyecto
+├── notebooks/
+│   ├── eda/            # Análisis exploratorio (EDA)
+│   │   └── exploracion.ipynb
+│   └── etl/            # Pipeline ETL
+│       └── etl_pipeline.ipynb
+├── scripts/            # Scripts Python auxiliares
+├── sql/                # Scripts SQL para BigQuery
+└── README.md           # Descripción del proyecto
+```
+
 
 ## 🛠️ Tecnologías utilizadas
 
