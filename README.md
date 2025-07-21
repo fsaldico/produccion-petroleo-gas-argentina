@@ -11,8 +11,6 @@ Este proyecto tiene como objetivo realizar un análisis completo de la producci�
 
 ## 📁 Estructura del repositorio
 
-## 📁 Estructura del repositorio
-
 ```
 produccion-petroleo-gas-argentina/
 ├── data/               # Archivos CSV crudos y procesados
