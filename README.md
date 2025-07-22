@@ -25,7 +25,7 @@ produccion-petroleo-gas-argentina/
 
 ## 🛠️ Tecnologías utilizadas
 
-- Python 3
+- Python 3.9+
 - Pandas, Jupyter, Matplotlib
 - Google BigQuery
 - Google Cloud Storage (GCS)
