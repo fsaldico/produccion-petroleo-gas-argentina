@@ -1,13 +1,11 @@
 # Producción de Petróleo y Gas en Argentina
 
-Este proyecto tiene como objetivo realizar un análisis completo de la producción de petróleo y gas en Argentina a través de datos abiertos del año 2023. Se utilizarán herramientas de Python, Jupyter Notebooks, Google Cloud (BigQuery y GCS) y GitHub para documentar todo el proceso.
+Este repositorio contiene un pipeline de análisis y transformación de datos de producción de petróleo y gas en Argentina. Incluye:
 
-## 🔍 Objetivos
-
-- Realizar un análisis exploratorio (EDA) de los datos.
-- Aplicar un pipeline ETL para limpiar y normalizar la información.
-- Cargar las tablas normalizadas en BigQuery.
-- Visualizar insights clave sobre producción y pozos.
+- 📊 Análisis exploratorio EDA
+- 🛠️ Proceso ETL apicando pipeline para limpiar y normalizar la información
+- ☁️ Scripts SQL para cargar las tablas normalizadas en BigQuery
+- 📁 Organización clara por carpetas para visualizar insights clave sobre producción y pozos
 
 ## 📁 Estructura del repositorio
 
@@ -25,14 +23,14 @@ produccion-petroleo-gas-argentina/
 └── README.md           # Descripción del proyecto
 ```
 
-
 ## 🛠️ Tecnologías utilizadas
 
 - Python 3
-- Jupyter Notebooks
+- Pandas, Jupyter, Matplotlib
 - Google BigQuery
 - Google Cloud Storage (GCS)
 - Git + GitHub
+
 
 ## 👩‍💻 Autor
 
